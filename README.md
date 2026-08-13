@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 Estas son algunas tecnologías y herramientas con las que he trabajado hasta ahora en mi carrera universitaria:
 
-Lenguajes:Golang, C, C++, Haskell, SQL, Golang
+Lenguajes:Golang, C, C++, Haskell, SQL, NoSQL, Golang, Prolog
 Herramientas: Microsoft Office, Excel, PowerPoint, Adobe Illustrator, Canva
 Un poco más de mí: 
 Me motiva aprender, compartir y mejorar cada día un poco más, soy un poco competitiva, esto me impulsa a buscar ser
